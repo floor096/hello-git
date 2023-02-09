@@ -1,4 +1,3 @@
-print("hola mundo")
-print("hola git")
-print("que tal?")
+print("new hola mundo")
+
 
